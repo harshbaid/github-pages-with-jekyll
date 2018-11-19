@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Built using Jekyll
 
 This will be my future blog site
